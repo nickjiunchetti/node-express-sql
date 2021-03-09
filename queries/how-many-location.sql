@@ -1,0 +1,1 @@
+select location, count(location) from users where location = 'New York' group by location;

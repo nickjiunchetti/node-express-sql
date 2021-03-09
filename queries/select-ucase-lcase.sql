@@ -1,0 +1,1 @@
+select ucase(first_name), lcase(last_name) from users;

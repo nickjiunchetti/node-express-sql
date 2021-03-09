@@ -1,0 +1,1 @@
+DROP INDEX Lindex on users;

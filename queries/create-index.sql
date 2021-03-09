@@ -1,0 +1,1 @@
+CREATE INDEX LIndex on users(location);

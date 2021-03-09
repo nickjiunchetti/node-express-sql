@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE dept LIKE 'dev%elo%pment';

@@ -1,0 +1,1 @@
+UPDATE users SET email = 'nick@gmail.com' WHERE id = 2;
